@@ -1,6 +1,6 @@
 # yt-devmeetup-vue
 
-> A dev meetup application with Vue + Vuetify + Firebase
+> A dev meetup application with Vue + Vuetify + Firebase from youtube
 
 ## Build Setup
 
